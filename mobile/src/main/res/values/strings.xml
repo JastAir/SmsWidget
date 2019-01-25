@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sms Widget</string>
+    <string name="appwidget_text">СМС Макрос</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="fragment_title_makros_edit">Редактирование макроса</string>
+    <string name="fragment_title_makros_add">Добавление нового макроса</string>
+    <string name="snackbar_info_message_send">Сообщение отправлено!</string>
+    <string name="snackbar_info_makros_delete">Удалено!</string>
+    <string name="frag_edit_menu_item_delete">Удалить</string>
+    <string name="fragment_title_makros_list">Макросы сообщений</string>
+    <string name="title_activity_pick_makros_icon">Выбрать иконку макроса</string>
+    <string name="configure">Configure</string>
+</resources>

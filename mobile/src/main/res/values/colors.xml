@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42a5f5</color>
+    <color name="colorPrimaryDark">#1976d2</color>
+    <color name="colorAccent">#212121</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="textColorSecondary">#ffffff</color>
+
+
+    <!-- INPUT'S -->
+    <color name="inputBackground">#29434e</color>
+
+    <!-- FUB STATE'S -->
+    <color name="fub_add">#546e7a</color>
+    <color name="fub_edit">#7986cb</color>
+    <color name="fub_delete">#e57373</color>
+    <color name="fub_save">#81c784</color>
+    <color name="fub_send">#ffd54f</color>
+</resources>
